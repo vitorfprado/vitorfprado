@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="images/capa-linkedin.jpg" alt="Vitor Prado - DevOps Engineer &amp; Cloud Architect" width="100%">
+</p>
+
 ## Hi there 👋
 
 <!--
