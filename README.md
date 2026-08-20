@@ -2,8 +2,6 @@
   <img src="images/capa-linkedin.jpg" alt="Vitor Prado - DevOps Engineer &amp; Cloud Architect" width="100%">
 </p>
 
-## Hi there 👋
-
 <!--
 **vitorfprado/vitorfprado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
