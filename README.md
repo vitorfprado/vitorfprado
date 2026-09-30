@@ -2,7 +2,7 @@
   <img src="images/capa-linkedin.jpg" alt="Vitor Prado - DevOps Engineer &amp; Cloud Architect" width="100%">
 </p>
 
-## 🚀 Portfólio
+## Portfólio
 
 - **[ToggleMaster](https://github.com/fiap-tech-challenge-devops)** — Plataforma de feature flags em microsserviços (Go/Python) e o pipeline DevOps/SRE completo que a sustenta: Terraform na AWS, EKS, GitOps com Argo CD e CI/CD com DevSecOps.
 
