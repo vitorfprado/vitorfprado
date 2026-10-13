@@ -5,6 +5,7 @@
 ## Portfólio
 
 - **[ToggleMaster](https://github.com/fiap-tech-challenge-devops)** — Plataforma de feature flags em microsserviços (Go/Python) e o pipeline DevOps/SRE completo que a sustenta: Terraform na AWS, EKS, GitOps com Argo CD e CI/CD com DevSecOps.
+- **[Guetto Platform](https://github.com/guetto-plataform)** *(em construção)* — Internal Developer Platform enxuta: o dev de produto faz deploy, rollback e monitora o serviço com um push, sem escrever YAML de Kubernetes. Terraform/EKS, GitOps com Argo CD, Helm e decisões registradas em ADRs.
 
 <!--
 **vitorfprado/vitorfprado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
